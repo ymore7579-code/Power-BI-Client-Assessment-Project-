@@ -262,7 +262,8 @@ Open the `.pbix` file using **Power BI Desktop** to explore the complete data mo
 - Customer Analysis
 - Marketing Analytics
 
----
+project file
+"C:\Users\DELL\Desktop\project\powerbi assement project.pbix"
 
 ## 👨‍💻 Author
 
@@ -279,7 +280,7 @@ Aspiring Data Analyst
 - Data Visualization
 
 ---
-
 ## ⭐ Project Purpose
 
 This project was created as a practical **Power BI Data Analytics project** to demonstrate the complete analytics workflow — from raw data cleaning and transformation to interactive dashboard development and business analysis.
+
