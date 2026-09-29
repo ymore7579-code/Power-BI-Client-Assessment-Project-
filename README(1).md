@@ -23,7 +23,7 @@ The dataset covers the period **2022–2026** and contains information related t
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop**
 - **Power Query**
@@ -89,7 +89,7 @@ The project analyzes:
 
 ---
 
-# 📊 Power BI Dashboards
+#  Power BI Dashboards
 
 ## Dashboard 1 – Executive Summary
 
@@ -236,7 +236,7 @@ Open the `.pbix` file using **Power BI Desktop** to explore the complete data mo
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1. Install **Power BI Desktop**.
 2. Clone or download this repository.
