@@ -1,6 +1,6 @@
 # Power BI Client Assessment Project – E-Commerce Cosmetic Brand
 
-## 📊 Project Overview
+## Project Overview
 
 This project is a **Power BI Client Assessment Project** based on an **E-Commerce Cosmetic Brand**.
 
@@ -10,7 +10,7 @@ The dataset covers the period **2022–2026** and contains information related t
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Clean and transform raw business data.
 - Handle duplicate records and inconsistent values.
@@ -35,7 +35,7 @@ The dataset covers the period **2022–2026** and contains information related t
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 The project includes several data-preparation activities such as:
 
@@ -51,7 +51,7 @@ The project includes several data-preparation activities such as:
 
 ---
 
-## 📈 Key Analysis
+## Key Analysis
 
 The project analyzes:
 
@@ -162,7 +162,7 @@ This dashboard analyzes advertising and campaign performance.
 
 ---
 
-## 📌 Important DAX Concepts Used
+##  Important DAX Concepts Used
 
 Examples of calculations created in the project include:
 
@@ -180,7 +180,7 @@ Examples of calculations created in the project include:
 
 ---
 
-## 📊 Business Insights
+##  Business Insights
 
 The dashboards are designed to help answer questions such as:
 
@@ -198,7 +198,7 @@ The dashboards are designed to help answer questions such as:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Data
@@ -222,7 +222,7 @@ Business Insights
 
 ---
 
-## 📁 Project File
+##  Project File
 
 The main project file is:
 
@@ -247,7 +247,7 @@ Open the `.pbix` file using **Power BI Desktop** to explore the complete data mo
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Power Query
@@ -265,7 +265,7 @@ Open the `.pbix` file using **Power BI Desktop** to explore the complete data mo
 project file
 "C:\Users\DELL\Desktop\project\powerbi assement project.pbix"
 
-## 👨‍💻 Author
+##  Author
 
 **Yogesh Ganpat More**
 
@@ -280,7 +280,7 @@ Aspiring Data Analyst
 - Data Visualization
 
 ---
-## ⭐ Project Purpose
+##  Project Purpose
 
 This project was created as a practical **Power BI Data Analytics project** to demonstrate the complete analytics workflow — from raw data cleaning and transformation to interactive dashboard development and business analysis.
 
