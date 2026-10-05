@@ -285,7 +285,7 @@ Aspiring Data Analyst
 
 <img width="579" height="322" alt="Screenshot 2026-10-05 235846" src="https://github.com/user-attachments/assets/30327f39-5018-465d-b29a-34556c3f41af" />
 
-
+#dashboard 1
 
 
 <img width="575" height="323" alt="Screenshot 2026-10-06 000915" src="https://github.com/user-attachments/assets/dfc82537-70c6-4ea0-bc24-c4956fb9035a" />
