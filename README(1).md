@@ -283,34 +283,43 @@ Aspiring Data Analyst
 
 #dashboard picture
 
+#dashboard 1
+
 <img width="579" height="322" alt="Screenshot 2026-10-05 235846" src="https://github.com/user-attachments/assets/30327f39-5018-465d-b29a-34556c3f41af" />
 
-#dashboard 1
+
+#dashboard 2
 
 
 <img width="575" height="323" alt="Screenshot 2026-10-06 000915" src="https://github.com/user-attachments/assets/dfc82537-70c6-4ea0-bc24-c4956fb9035a" />
 
 
 
+#dashboard 3
+
 
 <img width="578" height="323" alt="Screenshot 2026-10-06 001030" src="https://github.com/user-attachments/assets/54a83c30-ddd8-492b-875d-cf15691cff95" />
 
 
+#dashboard 4
 
 
 <img width="576" height="320" alt="Screenshot 2026-10-06 001058" src="https://github.com/user-attachments/assets/6e604594-ef19-4323-a073-50d709421147" />
 
 
+#dashboard 5
 
 
 <img width="580" height="321" alt="Screenshot 2026-10-06 001129" src="https://github.com/user-attachments/assets/722ce1c6-edb8-4f3e-977a-a55e55765f35" />
 
 
+#dashboard 6
 
 
 <img width="578" height="322" alt="Screenshot 2026-10-06 001226" src="https://github.com/user-attachments/assets/32427ed1-7075-419b-b0f8-eb0d9e4198b3" />
 
 
+#dashboard 7
 
 
 <img width="578" height="325" alt="Screenshot 2026-10-06 001308" src="https://github.com/user-attachments/assets/65da8860-d510-471a-9084-1112a54f31d4" />
