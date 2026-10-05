@@ -280,6 +280,13 @@ Aspiring Data Analyst
 - Data Visualization
 
 ---
+
+#dashboard picture
+
+<img width="579" height="322" alt="Screenshot 2026-10-05 235846" src="https://github.com/user-attachments/assets/30327f39-5018-465d-b29a-34556c3f41af" />
+
+
+
 ##  Project Purpose
 
 This project was created as a practical **Power BI Data Analytics project** to demonstrate the complete analytics workflow — from raw data cleaning and transformation to interactive dashboard development and business analysis.
