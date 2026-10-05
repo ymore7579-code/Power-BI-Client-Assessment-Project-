@@ -286,6 +286,10 @@ Aspiring Data Analyst
 <img width="579" height="322" alt="Screenshot 2026-10-05 235846" src="https://github.com/user-attachments/assets/30327f39-5018-465d-b29a-34556c3f41af" />
 
 
+<img width="330" height="203" alt="Screenshot 2026-10-06 000852" src="https://github.com/user-attachments/assets/d676d7e8-3350-4b35-ae95-72e1f8719312" />
+
+
+
 
 ##  Project Purpose
 
