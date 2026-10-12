@@ -319,7 +319,7 @@ Aspiring Data Analyst
 
 #dashboard 7
 
-<img width="578" height="320" alt="Screenshot 2026-10-13 002320" src="https://github.com/user-attachments/assets/fb4472af-c36c-400e-b257-489955555dd9" />
+<img width="577" height="320" alt="Screenshot 2026-10-13 003452" src="https://github.com/user-attachments/assets/705dcd0e-eed3-4c2a-aaed-0a34c22cb2cd" />
 
 
 
