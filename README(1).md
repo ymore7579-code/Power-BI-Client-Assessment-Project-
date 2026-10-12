@@ -285,44 +285,42 @@ Aspiring Data Analyst
 
 #dashboard 1
 
-<img width="579" height="322" alt="Screenshot 2026-10-05 235846" src="https://github.com/user-attachments/assets/30327f39-5018-465d-b29a-34556c3f41af" />
+<img width="605" height="337" alt="Screenshot 2026-10-12 181622" src="https://github.com/user-attachments/assets/65d654ef-6f69-48cd-a67d-8d6ca148b003" />
 
 
 #dashboard 2
 
 
-<img width="575" height="323" alt="Screenshot 2026-10-06 000915" src="https://github.com/user-attachments/assets/dfc82537-70c6-4ea0-bc24-c4956fb9035a" />
+<img width="575" height="320" alt="Screenshot 2026-10-13 002716" src="https://github.com/user-attachments/assets/b205fcaf-e5da-4890-b367-28ad47b195b2" />
 
 
 
 #dashboard 3
 
+<img width="602" height="337" alt="Screenshot 2026-10-13 002040" src="https://github.com/user-attachments/assets/6b8b4bff-f5c2-43fc-967a-1ac44ea83456" />
 
-<img width="578" height="323" alt="Screenshot 2026-10-06 001030" src="https://github.com/user-attachments/assets/54a83c30-ddd8-492b-875d-cf15691cff95" />
 
 
 #dashboard 4
 
+<img width="575" height="320" alt="Screenshot 2026-10-13 002149" src="https://github.com/user-attachments/assets/74184550-9c35-4a47-ba60-e9116ac7c1b0" />
 
-<img width="576" height="320" alt="Screenshot 2026-10-06 001058" src="https://github.com/user-attachments/assets/6e604594-ef19-4323-a073-50d709421147" />
 
 
 #dashboard 5
 
-
-<img width="580" height="321" alt="Screenshot 2026-10-06 001129" src="https://github.com/user-attachments/assets/722ce1c6-edb8-4f3e-977a-a55e55765f35" />
+<img width="578" height="321" alt="Screenshot 2026-10-13 002211" src="https://github.com/user-attachments/assets/3a99a88d-3385-403c-a4e4-ea982beab549" />
 
 
 #dashboard 6
 
-
-<img width="578" height="322" alt="Screenshot 2026-10-06 001226" src="https://github.com/user-attachments/assets/32427ed1-7075-419b-b0f8-eb0d9e4198b3" />
+<img width="580" height="322" alt="Screenshot 2026-10-13 002238" src="https://github.com/user-attachments/assets/964722c9-cc7d-4906-9d60-20c4c32cca7f" />
 
 
 #dashboard 7
 
+<img width="578" height="320" alt="Screenshot 2026-10-13 002320" src="https://github.com/user-attachments/assets/fb4472af-c36c-400e-b257-489955555dd9" />
 
-<img width="578" height="325" alt="Screenshot 2026-10-06 001308" src="https://github.com/user-attachments/assets/65da8860-d510-471a-9084-1112a54f31d4" />
 
 
 ##  Project Purpose
